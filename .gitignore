@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+#ignore files
+Debug/
+Release/
+FirstApp/Debug/
+FirstApp/Release/
+FirstApp/*.vcxproj
+FirstApp/*.filters
+FirstApp/*.user
